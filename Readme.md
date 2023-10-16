@@ -10,10 +10,15 @@
 + **Loan Payments:**
 + **Loan Statements**
 
-## 2 APPS
-    + Loan App
-    + Login App
 
+
+
+https://github.com/ShrikanthDeva/Loan_Management/assets/94846398/9cd21bad-4cd2-40b2-ae19-5a69c91af930
+
+
+
+
+  
 ## Loan App
 ### loanCategory -> 
     ( loan_name, creation_date, updated_date )
@@ -37,7 +42,14 @@
     ( user, aadhar_id, annual_income,  credit_score)
 ### Transaction -> 
     ( aadhar_id, date, transaction_type, amount )
+
 ### Tasks
-    + FUNTIONS
-      + calculate_credit_score
-      + import transactions
+  + FUNCTION
+    + calculate_credit_score
+    + import_transactions
+   
+# BACKEND
+
+
+https://github.com/ShrikanthDeva/Loan_Management/assets/94846398/a49da7af-bd65-4cfa-b32f-5be5d245f61b
+
